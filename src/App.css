@@ -29,6 +29,11 @@ h1 {
   margin: 0;
 }
 
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
 h3 {
   border-bottom: 1px solid #bbb;
   padding-bottom: 10px;
