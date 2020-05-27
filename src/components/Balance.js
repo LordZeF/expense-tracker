@@ -10,7 +10,7 @@ export const Balance = () => {
     return (
         <div>
             <h4>Balance</h4>
-            <h1>&#8369;{total}</h1>
+            <h1>&#8369; {total}</h1>
         </div>
     )
 }
